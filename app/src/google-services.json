@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096825941856",
+    "project_id": "hackout22-spammers",
+    "storage_bucket": "hackout22-spammers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096825941856:android:1564e9fc9df166f9e67805",
+        "android_client_info": {
+          "package_name": "com.example.collegeevents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096825941856-gp8hpn0aechgaumn88p8laik6t0nq2u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCegvxS3RqkFJPcLN3iJU52MlWNSX_P8BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096825941856-gp8hpn0aechgaumn88p8laik6t0nq2u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
