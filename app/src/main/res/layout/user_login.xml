@@ -7,17 +7,19 @@
 
     <TextView
         android:id="@+id/login_sign"
-        android:layout_width="220dp"
-        android:layout_height="77dp"
+        android:layout_width="230dp"
+        android:layout_height="123dp"
         android:text="Login"
+        android:textColor="#6F0320"
         android:textAlignment="center"
-        android:textSize="60dp"
+        android:textSize="70dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.267" />
+        app:layout_constraintVertical_bias="0.25" />
+
     <ImageView
         android:id="@+id/sign_in_button"
         android:layout_width="315dp"
@@ -27,6 +29,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.579" />
+        app:layout_constraintVertical_bias="0.696" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
